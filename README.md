@@ -26,6 +26,6 @@ This repository contains my Java programming practical assignments for the 5th s
 ## Submitted By
 Student Name: Krishna 
 
-College: Your Echelone institute of technology faridabad
+College: Echelone institute of technology faridabad
 
 Semester: 5th Semester
